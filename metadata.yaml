@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/Joel_Lehtonen
     - http://fi.wikipedia.org/wiki/Joel_Lehtonen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54095#Josef-Balsamo-Historiallinen-romaani-Ludvig-XVn-hovista
 gutenberg_issued: '2017-02-02'
 gutenberg_type: Text
 identifiers:
